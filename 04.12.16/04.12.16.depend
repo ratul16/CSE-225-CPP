@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1480849947 source:c:\users\administrator\desktop\04.12.16\main.cpp
+	<iostream>
+	"HeapType.cpp"
+	"PQueue.cpp"
+
+1480850085 source:c:\users\administrator\desktop\04.12.16\heaptype.cpp
+	"HeapType.h"
+
+1480848307 c:\users\administrator\desktop\04.12.16\heaptype.h
+
+1480846993 c:\users\administrator\desktop\04.12.16\pqueue.h
+	"HeapType.h"
+
+1480849938 source:c:\users\administrator\desktop\04.12.16\pqueue.cpp
+	"PQueue.h"
+	<iostream>
+
+1480850085 c:\users\administrator\desktop\04.12.16\heaptype.cpp
+	"HeapType.h"
+
+1480849938 c:\users\administrator\desktop\04.12.16\pqueue.cpp
+	"PQueue.h"
+	<iostream>
+

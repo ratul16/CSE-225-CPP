@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1478429211 source:c:\users\user\desktop\ratul\06.11.16\itemtype.cpp
+	"ItemType.h"
+
+1478428670 c:\users\user\desktop\ratul\06.11.16\itemtype.h
+	<iostream>
+
+1478429793 source:c:\users\user\desktop\ratul\06.11.16\main.cpp
+	<iostream>
+	"SortedList.h"
+	"ItemType.h"
+
+1478429843 source:c:\users\user\desktop\ratul\06.11.16\sortedlist.cpp
+	"SortedList.h"
+
+1478428368 c:\users\user\desktop\ratul\06.11.16\sortedlist.h
+	"ItemType.h"
+

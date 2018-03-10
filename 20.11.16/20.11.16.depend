@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1479635238 source:c:\users\user\desktop\new folder (2)\20.11.16\main.cpp
+	<iostream>
+	"Queue.cpp"
+
+1479634239 source:c:\users\user\desktop\new folder (2)\20.11.16\node.cpp
+
+1479635210 source:c:\users\user\desktop\new folder (2)\20.11.16\queue.cpp
+	"Node.cpp"
+	<iostream>
+
+1479634239 c:\users\user\desktop\new folder (2)\20.11.16\node.cpp
+
+1479635210 c:\users\user\desktop\new folder (2)\20.11.16\queue.cpp
+	"Node.cpp"
+	<iostream>
+

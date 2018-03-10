@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1479032122 source:c:\users\user\desktop\new folder (2)\13.11.16\main.cpp
+	<iostream>
+	"ItemType.h"
+	"StackType.h"
+
+1479027945 source:c:\users\user\desktop\new folder (2)\13.11.16\itemtype.cpp
+	"ItemType.h"
+
+1479027606 c:\users\user\desktop\new folder (2)\13.11.16\itemtype.h
+	<iostream>
+
+1479029983 source:c:\users\user\desktop\new folder (2)\13.11.16\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1479028301 c:\users\user\desktop\new folder (2)\13.11.16\stacktype.h
+	"ItemType.h"
+

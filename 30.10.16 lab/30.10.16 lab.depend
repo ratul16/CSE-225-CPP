@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1477820775 source:c:\users\user\desktop\ratul\30.10.16 lab\node.cpp
+	<string>
+
+1477822760 source:c:\users\user\desktop\ratul\30.10.16 lab\main.cpp
+	<iostream>
+	<string>
+	"LinkedList.cpp"
+
+1477822586 source:c:\users\user\desktop\ratul\30.10.16 lab\linkedlist.cpp
+	<string>
+	"Node.cpp"
+	<iostream>
+
+1477820775 c:\users\user\desktop\ratul\30.10.16 lab\node.cpp
+	<string>
+
+1477823323 c:\users\user\desktop\ratul\30.10.16 lab\linkedlist.cpp
+	<string>
+	"Node.cpp"
+	<iostream>
+

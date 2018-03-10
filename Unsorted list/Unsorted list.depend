@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1476617556 source:c:\users\user\desktop\ratul\unsorted list\main.cpp
+
+1476610777 source:c:\users\user\desktop\ratul\unsorted list\src\itemtype.cpp
+	"ItemType.h"
+
+1476610217 c:\users\user\desktop\ratul\unsorted list\include\itemtype.h
+	<iostream>
+
+1476619124 source:c:\users\user\desktop\ratul\unsorted list\src\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1476613955 c:\users\user\desktop\ratul\unsorted list\include\unsortedtype.h
+	"itemtype.h"
+
+1476618940 source:c:\users\user\desktop\ratul\unsorted list\task.cpp
+	"ItemType.h"
+	"UnsortedType.h"
+	<iostream>
+
